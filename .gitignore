@@ -1,0 +1,7 @@
+logs/
+chunks/
+batch_result/
+merged/
+file.db
+daemon.lock
+config.yaml
